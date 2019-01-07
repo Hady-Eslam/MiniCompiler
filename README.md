@@ -14,7 +14,7 @@ Project Of Faculty
 The Project is used to make Mini Compiler For Faculty
 
 # The Grammer
-The First Version it only Make tokens that has only english Words in it
+The First Version it only Make tokens that has only english Words in it .
 The Second version Can Make Tokens And Parser in Arabic Grammer And Arabic Characters
 
 To See The Grammer DownLoad The PDF
